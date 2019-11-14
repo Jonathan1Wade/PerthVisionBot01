@@ -8,7 +8,3 @@ This branch contains samples for the released version of the **Microsoft Bot Fra
 
 Bot created for Perth Vision 2020 using Git.
 
-```bash
-    git clone https://github.com/Microsoft/BotBuilder-Samples.git
-    cd BotBuilder-Samples
-```
