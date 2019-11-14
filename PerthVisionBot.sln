@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.584
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerthVisionBot", "PerthVisionBot\PerthVisionBot.csproj", "{F24C5A2A-0581-498E-BAA8-10F8636A5742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F24C5A2A-0581-498E-BAA8-10F8636A5742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24C5A2A-0581-498E-BAA8-10F8636A5742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24C5A2A-0581-498E-BAA8-10F8636A5742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24C5A2A-0581-498E-BAA8-10F8636A5742}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B90EC877-6920-4A70-9A4F-31F33AFB25E3}
+	EndGlobalSection
+EndGlobal
